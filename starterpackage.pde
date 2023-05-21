@@ -7,8 +7,8 @@ int smallerX,smallerY=60;
   boolean showPopup=false;
 int smallerX2,smallerY2=30;
 
-int numBalls = 500;
-float spring = 0.05;
+int numBalls = 250;
+float spring = 0.12;
 float gravity = 0;
 float friction = -0.9;
 Ball[] balls = new Ball[numBalls];
